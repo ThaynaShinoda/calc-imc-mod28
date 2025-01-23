@@ -1,4 +1,13 @@
-# React + Vite
+# Curso: Desenvolvedor Full Stack Python - EBAC
+## Exercício Módulo 28
+1. Crie um projeto utilizando ReactJS;
+- Este projeto será basicamente um formulário, contendo os campos: altura e peso;
+2. A partir dessas informações calcule o IMC;
+3. Retorne o IMC e a classificação na tabela;
+4. Em um novo repositório armazene o código da tarefa;
+5. Envie o link do repositório através da plataforma.
+
+### React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
