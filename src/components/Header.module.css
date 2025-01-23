@@ -1,0 +1,29 @@
+.logo {
+  background-color: #BF4E58;
+  color: #F29B30;
+  padding: 1rem;
+  font-size: 2.25rem;
+  font-weight: 700;
+  border-radius: 8px;
+}
+
+.descriptionContainer {
+  background-color: #5F3F8C;
+  color: #ffffff;
+  /* display: flex;
+  flex-direction: column;
+  align-items: center; */
+  border-radius: 8px;
+  margin-top: 1rem;
+  padding: 1rem;
+}
+.descriptionContainer > h3 {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+.descriptionContainer > p {
+  font-size: 1.125rem;
+}
+
+
+
